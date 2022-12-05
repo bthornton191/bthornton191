@@ -1,6 +1,6 @@
 
+![crankshaft](https://user-images.githubusercontent.com/8717867/205762424-81050a60-75c5-40b3-97a4-cf499b5f3b5b.gif)
 
-https://user-images.githubusercontent.com/8717867/205762002-173e90f0-7508-4e48-8a8b-1b4dcec9e2ce.mov
 
 
 
