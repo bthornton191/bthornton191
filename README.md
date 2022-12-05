@@ -5,11 +5,10 @@
 [![](https://custom-icon-badges.demolab.com/badge/Contact-teal?logo=mail)](mailto:ben.thornton@hexagon.com)
 </div>
 
-- 👋 Hi, I’m @bthornton191
-- 👀 I’m interested in 
-  * <img src="images/adams.png" alt="adams" height="15"/> [Adams](https://hexagon.com/products/product-groups/computer-aided-engineering-software/adams)
-  * <img src="images/python.png" alt="python" height="15"/> Python
-  * <img src="images/gears.png" alt="gears" height="15"/> Mechanical Dynamics
+## Intrests
+* <img src="images/adams.png" alt="adams" height="15"/> [Adams](https://hexagon.com/products/product-groups/computer-aided-engineering-software/adams)
+* <img src="images/python.png" alt="python" height="15"/> Python
+* <img src="images/gears.png" alt="gears" height="15"/> Mechanical Dynamics
 
 ## :wrench: Consulting Services
 ### Quick-start projects
