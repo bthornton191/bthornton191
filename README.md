@@ -1,5 +1,5 @@
 
-![Alt text](videos/crankshaft_cropped.gif)
+![Alt text](videos/crankshaft_cropped.gif) 
 
     
 
