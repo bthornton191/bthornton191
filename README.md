@@ -5,12 +5,12 @@
 [![](https://custom-icon-badges.demolab.com/badge/Contact-teal?logo=mail)](mailto:ben.thornton@hexagon.com)
 </div>
 
-## Intrests
+## :brain: Intrests
 * <img src="images/adams.png" alt="adams" height="15"/> [Adams](https://hexagon.com/products/product-groups/computer-aided-engineering-software/adams)
 * <img src="images/python.png" alt="python" height="15"/> Python
 * <img src="images/gears.png" alt="gears" height="15"/> Mechanical Dynamics
 
-## :wrench: Consulting Services
+## :man_technologist: Consulting Services
 ### Quick-start projects
 I will help you install and configure MSC software products for your environment, and provide general instruction for your staff in using the 
 software in your product development process.
@@ -47,7 +47,7 @@ I'll evaluate your simulation needs and work with your staff to determine how to
 software to efficiently simulate your problem. This may include establishing simplifying assumptions, customising numerical 
 algorithms and correlating models to test.
 
-## Past Projects
+## :heavy_check_mark: Past Projects
 > TBD...
 
 <!-- 
