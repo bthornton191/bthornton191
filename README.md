@@ -36,16 +36,15 @@ tackle your toughest problems. I will help you to understand your goals and your
 Once I know what you are trying to accomplish, I will gather from you the necessary data such as CAD models, physical test 
 data, and materials data, and then run your simulation for you.
 
-### Customisation and process automation
-MSC Software products are highly customisable and extendable. Customisation allows customers to create specialised applications 
-for proprietary processes within MSC Software tools. This can include custom user interfaces, automated reports, standardised 
-modelling and simulation techniques, and specialised algorithms. I can then help you deploy and manage these customisations 
+### Customization and process automation
+MSC Software products are highly customizable and extendable. Customization allows customers to create specialized applications 
+for proprietary processes within MSC Software tools. This can include custom user interfaces, automated reports, standardized 
+modelling and simulation techniques, and specialized algorithms. I can then help you deploy and manage these customizations 
 across your entire enterprise.
 
 ### Methods development
 I'll evaluate your simulation needs and work with your staff to determine how to use simulation 
-software to efficiently simulate your problem. This may include establishing simplifying assumptions, customising numerical 
-algorithms and correlating models to test.
+software to efficiently simulate your problem. This may include establishing simplifying assumptions, customizing numerical algorithms and correlating models to test.
 
 ## :heavy_check_mark: Past Projects
 > TBD...
