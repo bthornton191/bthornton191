@@ -11,7 +11,7 @@
   * <img src="images/python.png" alt="python" height="15"/> Python
   * <img src="images/gears.png" alt="gears" height="15"/> Mechanical Dynamics
 
-## :wrench: Services I Provide
+## :wrench: Consulting Services
 ### Quick-start projects
 I will help you install and configure MSC software products for your environment, and provide general instruction for your staff in using the 
 software in your product development process.
