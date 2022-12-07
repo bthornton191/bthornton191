@@ -16,9 +16,22 @@
 * <img src="images/gears.png" alt="gears" height="15"/> Mechanical Dynamics
 
 ## :man_technologist: Consulting Services
-### Quick-start projects
-I will help you install and configure MSC software products for your environment, and provide general instruction for your staff in using the 
-software in your product development process.
+
+### Simulation projects
+If you only need to do analysis infrequently, I offer simulation projects and consulting to 
+tackle your toughest problems. I will help you to understand your goals and your design problem first. 
+Once I know what you are trying to accomplish, I will gather from you the necessary data such as CAD models, physical test 
+data, and materials data, and then run your simulation for you.
+
+### Customization and process automation
+Hexagon products are highly customizable and extendable. Customization allows customers to create specialized applications 
+for proprietary processes within Hexagon tools. This can include custom user interfaces, automated reports, standardized 
+modelling and simulation techniques, and specialized algorithms. I can then help you deploy and manage these customizations 
+across your entire enterprise.
+
+### Methods development
+I'll evaluate your simulation needs and work with your staff to determine how to use simulation 
+software to efficiently simulate your problem. This may include establishing simplifying assumptions, customizing numerical algorithms and correlating models to test.
 
 ### Knowledge transfer
 I will perform simulations for you and then use the simulation as a basis for transferring the necessary 
@@ -35,21 +48,6 @@ On-site support can be a true life-saver when you are in a situation where it is
 facility when needed for either a short period of time, or the entire length of a design project which can sometimes be weeks, 
 months or even years.
 
-### Simulation projects
-If you only need to do analysis infrequently, I offer simulation projects and consulting to 
-tackle your toughest problems. I will help you to understand your goals and your design problem first. 
-Once I know what you are trying to accomplish, I will gather from you the necessary data such as CAD models, physical test 
-data, and materials data, and then run your simulation for you.
-
-### Customization and process automation
-MSC Software products are highly customizable and extendable. Customization allows customers to create specialized applications 
-for proprietary processes within MSC Software tools. This can include custom user interfaces, automated reports, standardized 
-modelling and simulation techniques, and specialized algorithms. I can then help you deploy and manage these customizations 
-across your entire enterprise.
-
-### Methods development
-I'll evaluate your simulation needs and work with your staff to determine how to use simulation 
-software to efficiently simulate your problem. This may include establishing simplifying assumptions, customizing numerical algorithms and correlating models to test.
 
 ## :heavy_check_mark: Past Projects
 > TBD...
