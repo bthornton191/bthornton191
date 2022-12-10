@@ -10,44 +10,25 @@
 [![](https://custom-icon-badges.demolab.com/badge/Contact-teal?logo=mail)](mailto:ben.thornton@hexagon.com)
 </div>
 
+
+Hi there!👋
+
+My name is Ben Thornton and I am a mechanical engineer with expertise in MSC Adams and Python. I have a passion for customizing and automating engineering simulations, and I offer a range of consulting services to help clients streamline and optimize their workflows.
+
+Here are some of the services I offer:
+
+* **Simulation projects**: I gather necessary data from clients and build an Adams model to analyze and report on the results.
+* **Customization and process automation**: I write Adams plugins to automate clients' simulation workflows.
+* **Workflow development and refinement**: I can help clients develop or refine their simulation methodology.
+
+In addition to my consulting services, I also make some of my work available on GitHub as open-source libraries and Adams plugins. I believe in sharing knowledge and expertise, and I hope that my open-source contributions can benefit others in the engineering community.
+
+I am always looking for new challenges and opportunities to apply my skills and experience, and I would love to connect with other engineers and discuss potential projects or collaborations. Thank you for visiting my GitHub profile!
+
 ## :brain: Interests
 * <img src="images/adams.png" alt="adams" height="15"/> [Adams](https://hexagon.com/products/product-groups/computer-aided-engineering-software/adams)
 * <img src="images/python.png" alt="python" height="15"/> Python
 * <img src="images/gears.png" alt="gears" height="15"/> Mechanical Dynamics
-
-## :man_technologist: Consulting Services
-
-### Simulation projects
-If you only need to do analysis infrequently, I offer simulation projects and consulting to 
-tackle your toughest problems. I will help you to understand your goals and your design problem first. 
-Once I know what you are trying to accomplish, I will gather from you the necessary data such as CAD models, physical test 
-data, and materials data, and then run your simulation for you.
-
-### Customization and process automation
-Hexagon products are highly customizable and extendable. Customization allows customers to create specialized applications 
-for proprietary processes within Hexagon tools. This can include custom user interfaces, automated reports, standardized 
-modelling and simulation techniques, and specialized algorithms. I can then help you deploy and manage these customizations 
-across your entire enterprise.
-
-### Methods development
-I'll evaluate your simulation needs and work with your staff to determine how to use simulation 
-software to efficiently simulate your problem. This may include establishing simplifying assumptions, customizing numerical algorithms and correlating models to test.
-
-### Knowledge transfer
-I will perform simulations for you and then use the simulation as a basis for transferring the necessary 
-knowledge to your staff. I do this through a step-by-step approach of training your team on the process I used to setup, simulate and 
-post process your simulation. This ensures your teams are ready to successfully apply simulation to future design projects.
-
-### Staff augmentation
-I can become an extension of your team, and provide on-site resources to augment your current staff. 
-I will work hand-in-hand with the team until the project is complete and
-you are satisfied with the results.
-
-### On-site support
-On-site support can be a true life-saver when you are in a situation where it is imperative that an expert be available at your 
-facility when needed for either a short period of time, or the entire length of a design project which can sometimes be weeks, 
-months or even years.
-
 
 ## :heavy_check_mark: Past Projects
 > TBD...
