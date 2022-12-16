@@ -6,8 +6,8 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Connect-bjthornton-blue?logo=linkedin)](https://www.linkedin.com/in/bjthornton/) 
+[![](https://custom-icon-badges.demolab.com/badge/Contact-ben.thornton@hexagon.com-476e70?logo=mail)](mailto:ben.thornton@hexagon.com)
 [![](https://img.shields.io/badge/Follow-bthornton191-bbbbbb?logo=github)](https://github.com/bthornton191)
-[![](https://custom-icon-badges.demolab.com/badge/Contact-ben.thornton@hexagon.com-teal?logo=mail)](mailto:ben.thornton@hexagon.com)
 </div>
 
 
