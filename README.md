@@ -56,8 +56,8 @@ You can click the Preview link to take a look at your changes.
 
 ## :mortar_board: Publications
 
-1.	"Semi-Closed-Form Displacement Equations for Calculating J-R Curves From Pipe Fracture Experiments." Proceedings of the ASME 2015 Pressure Vessels and Piping Conference. Volume 3: Design and Analysis. Boston, MA. July 19–23, 2015. https://doi.org/10.1115/PVP2015-45571
-2.	“Slosh Characteristics of Aggregated Intermediate Bulk Containers on Single-Unit Trucks.” Federal Motor Carrier Safety Administration, Washington D.C. Aug 01, 2016. https://doi.org/10.21949/1503003
-3.	“Safety Study of Double-Decker Motorcoaches with Rear Luggage Compartment.” Federal Motor Carrier Safety Administration, Washington D.C. June 06, 2017. https://doi.org/10.21949/1503002 
-4.	“Optimizing Drilling by Simulation and Automation with Big Data.” SPE Annual Technical Conference and Exhibition, Dallas, TX. Sep 24-26, 2018. https://doi.org/10.2118/191427-MS 
-5.	“Using Simulation to Prevent Non-Productive Time.” SPE/IADC International Drilling Conference and Exhibition, The Hague, The Netherlands. March 5-7 2019. https://doi.org/10.2118/194106-MS 
+1.	"Semi-Closed-Form Displacement Equations for Calculating J-R Curves From Pipe Fracture Experiments." Proceedings of the ASME 2015 Pressure Vessels and Piping Conference. Volume 3: Design and Analysis. Boston, MA. July 19–23, 2015. [https://doi.org/10.1115/PVP2015-45571](https://bit.ly/3wyjscP)
+2.	“Slosh Characteristics of Aggregated Intermediate Bulk Containers on Single-Unit Trucks.” Federal Motor Carrier Safety Administration, Washington D.C. Aug 01, 2016. [https://doi.org/10.21949/1503003](https://bit.ly/3kMnpZ0)
+3.	“Safety Study of Double-Decker Motorcoaches with Rear Luggage Compartment.” Federal Motor Carrier Safety Administration, Washington D.C. June 06, 2017. [https://doi.org/10.21949/1503002](https://bit.ly/3kNEyl0)
+4.	“Optimizing Drilling by Simulation and Automation with Big Data.” SPE Annual Technical Conference and Exhibition, Dallas, TX. Sep 24-26, 2018. [https://doi.org/10.2118/191427-MS](https://bit.ly/40ap1vw)
+5.	“Using Simulation to Prevent Non-Productive Time.” SPE/IADC International Drilling Conference and Exhibition, The Hague, The Netherlands. March 5-7 2019. [https://doi.org/10.2118/194106-MS](https://bit.ly/40634xV)
