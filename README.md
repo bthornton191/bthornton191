@@ -44,10 +44,10 @@ You can click the Preview link to take a look at your changes.
 ## Useful Tools for Adams Users
 | <img src="images/adams.png" alt="adams" height="15"/> Adams Plugins | <img src="images/python.png" alt="python" height="15"/>+<img src="images/adams.png" alt="adams" height="15"/> Python Libraries<br />(Inside Adams)|<img src="images/python.png" alt="python" height="15"/> Python Libraries<br />(Outside Adams)| Miscellaneous |
 | :--: | :--: | :--: |  :--: | 
-| [Conveyor](https://github.com/bthornton191/adams_conveyor) |  [aviewpy](https://links.savvyanalyst.xyz/aviewpy) | [Adams Rescale](https://github.com/bthornton191/adams_rescale) | [Adams View UI Mods](https://github.com/bthornton191/aview_mods_gen)
-| [Advanced Contact Plotting](https://github.com/bthornton191/adams_advanced_contact_plotting_plugin) ||[Adams Bin Converter](https://github.com/bthornton191/adams_bin_converter)| [Adams VS Code Extension](https://links.savvyanalyst.xyz/adams_vscode)
-| [Auto Animate](https://github.com/bthornton191/adams_auto_animate) |      | [adamspy](https://links.savvyanalyst.xyz/adamspy)    | [Adams System Tray Utility](https://links.savvyanalyst.xyz/adams_systray_util) 
-|                                                                    |      |                                                      | [Adams Docker Image](https://links.savvyanalyst.xyz/adams_docker)
+| [Conveyor](https://github.com/bthornton191/adams_conveyor)                                          |  [aviewpy](https://links.savvyanalyst.xyz/aviewpy) | [Adams Rescale](https://github.com/bthornton191/adams_rescale)            | [Adams View UI Mods](https://github.com/bthornton191/aview_mods_gen)
+| [Advanced Contact Plotting](https://github.com/bthornton191/adams_advanced_contact_plotting_plugin) |                                                    |[Adams Bin Converter](https://github.com/bthornton191/adams_bin_converter) | [Adams VS Code Extension](https://links.savvyanalyst.xyz/adams_vscode)
+| [Auto Animate](https://github.com/bthornton191/adams_auto_animate)                                  |                                                    | [adamspy](https://links.savvyanalyst.xyz/adamspy)                         | [Adams System Tray Utility](https://links.savvyanalyst.xyz/adams_systray_util) 
+|                                                                                                     |                                                    | [rescalepy](https://links.savvyanalyst.xyz/rescalepy)                     | [Adams Docker Image](https://links.savvyanalyst.xyz/adams_docker)
 
 ## :heavy_check_mark: Past Projects
 > TBD...
