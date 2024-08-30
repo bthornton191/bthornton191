@@ -64,4 +64,4 @@ You can click the Preview link to take a look at your changes.
 8.	“Using Simulation to Prevent Non-Productive Time.” SPE/IADC International Drilling Conference and Exhibition, The Hague, The Netherlands. March 5-7 2019. [https://doi.org/10.2118/194106-MS](https://bit.ly/40634xV)
 
 
-![](https://komarev.com/ghpvc/?username=bthornton191)
+![](https://komarev.com/ghpvc/?username=bthornton191&base=5432)
