@@ -62,3 +62,6 @@ You can click the Preview link to take a look at your changes.
 6.	“Northrop Grumman Mk44 Chain Gun Optimization Using Predictive Analytics and Multibody Dynamics.” NAFEMS World Congress 2021. [https://www.nafems.org/publications/resource_center/nwc21-328-c/](https://links.savvyanalyst.xyz/nwc21-328)
 7.	“Optimizing Drilling by Simulation and Automation with Big Data.” SPE Annual Technical Conference and Exhibition, Dallas, TX. Sep 24-26, 2018. [https://doi.org/10.2118/191427-MS](https://bit.ly/40ap1vw)
 8.	“Using Simulation to Prevent Non-Productive Time.” SPE/IADC International Drilling Conference and Exhibition, The Hague, The Netherlands. March 5-7 2019. [https://doi.org/10.2118/194106-MS](https://bit.ly/40634xV)
+
+
+![](https://komarev.com/ghpvc/?username=bthornton191)
